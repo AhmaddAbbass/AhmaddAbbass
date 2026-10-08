@@ -6,7 +6,7 @@ I'm an ML Engineer in the Digital Research Unit at **ACRPS**, and a Computer and
 
 [LinkedIn](https://www.linkedin.com/in/ahmad-abbas-b18b79283/) · [Shaer models & datasets](https://huggingface.co/Shaer-AI) · [AI Journey](https://www.instagram.com/ai.journey.aub/)
 
-## Research
+## Publications & research
 
 **[Shaer: Controlled Arabic Poetry Generation with Meter Subform and Semantic Conditioning](https://arxiv.org/abs/2610.09756)**  
 First author · Accepted at [ArabicNLP 2026](https://arabicnlp2026.sigarab.org/accepted-papers)
@@ -15,7 +15,15 @@ Arabic poetry generation conditioned on semantic descriptions, meter subforms, a
 
 [Code](https://github.com/AhmaddAbbass/Shaer) · [Paper](https://arxiv.org/abs/2610.09756) · [Model](https://huggingface.co/Shaer-AI/Shaer-adapters) · [Try in Colab](https://colab.research.google.com/github/AhmaddAbbass/Shaer/blob/main/colab/shaer_use_intended_prompt_for_best_performance.ipynb)
 
-I also work on heavy-tail-aware quantization, Arabic relation extraction ([U4RASD model](https://huggingface.co/U4RASD/DRU-RE-EntityPair-TwoHead)), and deployed GraphRAG systems, including [Hawir Kitabak](https://hawirkitabak.com/).
+**U4RASD at KnowledgeGraphEval 2026: Ontology-Constrained Encoder and LLM Systems for Arabic Relation Extraction**  
+First author · KnowledgeGraphEval 2026 Shared Task, ArabicNLP 2026
+
+Ontology-constrained Arabic relation extraction with encoder-based and LLM systems. Model artifacts and the annotated relation-extraction dataset are available on Hugging Face.
+
+[Models & artifacts](https://huggingface.co/U4RASD) · [Encoder model](https://huggingface.co/U4RASD/DRU-RE-EntityPair-TwoHead) · [Dataset](https://huggingface.co/datasets/U4RASD/WojoodRelationsAnnotated) · *Paper / arXiv: coming soon*
+<!-- TODO(U4RASD-paper): Replace "Paper / arXiv: coming soon" with [Paper](ARXIV_URL) once the preprint is available. -->
+
+I also work on heavy-tail-aware quantization and deployed GraphRAG systems, including [Hawir Kitabak](https://hawirkitabak.com/).
 
 ## Selected projects
 
